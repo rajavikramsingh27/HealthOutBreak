@@ -1,0 +1,6 @@
+framework module Pods_healthOutbreak {
+  umbrella header "Pods-healthOutbreak-umbrella.h"
+
+  export *
+  module * { export * }
+}

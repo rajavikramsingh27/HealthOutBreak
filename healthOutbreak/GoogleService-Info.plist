@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>96857615201-quspfntlf0vf65fumup1espo6bf3d8m9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.96857615201-quspfntlf0vf65fumup1espo6bf3d8m9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>96857615201-t9euk9hpf4rss8vbohbki6c5vkepcqu1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCLpBVAlljBv3mUCb_yNSWVwfz_We4iwA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>96857615201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.healthOutbreak</string>
+	<key>PROJECT_ID</key>
+	<string>health-outbreak-manager</string>
+	<key>STORAGE_BUCKET</key>
+	<string>health-outbreak-manager.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:96857615201:ios:d32256cfb119023c777320</string>
+	<key>DATABASE_URL</key>
+	<string>https://health-outbreak-manager.firebaseio.com</string>
+</dict>
+</plist>
